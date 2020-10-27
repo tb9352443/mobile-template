@@ -1,0 +1,86 @@
+{
+  "id": "2100492",
+  "name": "admin-icon",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "10147133",
+      "name": "search",
+      "font_class": "search",
+      "unicode": "e61a",
+      "unicode_decimal": 58906
+    },
+    {
+      "icon_id": "4347549",
+      "name": "icon_设置",
+      "font_class": "icon_shezhi",
+      "unicode": "eb8d",
+      "unicode_decimal": 60301
+    },
+    {
+      "icon_id": "4733921",
+      "name": "服务地球",
+      "font_class": "fuwudiqiu",
+      "unicode": "ec0f",
+      "unicode_decimal": 60431
+    },
+    {
+      "icon_id": "4766685",
+      "name": "home",
+      "font_class": "home",
+      "unicode": "e7c6",
+      "unicode_decimal": 59334
+    },
+    {
+      "icon_id": "6626181",
+      "name": "My",
+      "font_class": "My",
+      "unicode": "e610",
+      "unicode_decimal": 58896
+    },
+    {
+      "icon_id": "6909428",
+      "name": "设备开发",
+      "font_class": "shebeikaifa",
+      "unicode": "ecac",
+      "unicode_decimal": 60588
+    },
+    {
+      "icon_id": "1469179",
+      "name": "close",
+      "font_class": "close",
+      "unicode": "e849",
+      "unicode_decimal": 59465
+    },
+    {
+      "icon_id": "6664158",
+      "name": "eye",
+      "font_class": "eye",
+      "unicode": "e612",
+      "unicode_decimal": 58898
+    },
+    {
+      "icon_id": "12309885",
+      "name": "eye",
+      "font_class": "eye1",
+      "unicode": "e823",
+      "unicode_decimal": 59427
+    },
+    {
+      "icon_id": "843840",
+      "name": "wan_heads",
+      "font_class": "heads",
+      "unicode": "e602",
+      "unicode_decimal": 58882
+    },
+    {
+      "icon_id": "13616685",
+      "name": "password",
+      "font_class": "password",
+      "unicode": "e600",
+      "unicode_decimal": 58880
+    }
+  ]
+}
